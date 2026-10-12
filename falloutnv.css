@@ -12,6 +12,10 @@ h2 {
     text-align: left;
 }
 
+h3 {
+    text-align: left;
+}
+
 p {
     text-align: justify;
 }
@@ -25,4 +29,8 @@ p {
 
 .pip-boy_megvilagitas {
     text-shadow: 0 0 2px rgba(255, 182, 66, 0.8), 0 0 8px rgba(255, 182, 66, 0.5), 0 0 18px rgba(255, 182, 66, 0.3);
+}
+
+.felkover {
+    font-weight: bold;
 }
