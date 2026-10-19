@@ -16,6 +16,10 @@ h3 {
     text-align: left;
 }
 
+h4 {
+    text-align: left;
+}
+
 p {
     text-align: justify;
 }
@@ -31,6 +35,16 @@ p {
     text-shadow: 0 0 2px rgba(255, 182, 66, 0.8), 0 0 8px rgba(255, 182, 66, 0.5), 0 0 18px rgba(255, 182, 66, 0.3);
 }
 
+.megvilagitatlan {
+    text-shadow: none;
+}
+
 .felkover {
     font-weight: bold;
+}
+
+.kiemelt {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
 }
