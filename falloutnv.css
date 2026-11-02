@@ -48,3 +48,12 @@ p {
     font-style: italic;
     text-decoration: underline;
 }
+
+.floating-image {
+    float: right;
+    margin: 20px;
+}
+
+.stopfloat {
+    clear: both;
+}

@@ -41,3 +41,12 @@ th, td {
     border:#12FF15 1px solid;
     padding: 8px;
 }
+
+.floating-image {
+    float: right;
+    margin: 20px;
+}
+
+.stopfloat {
+    clear: both;
+}
