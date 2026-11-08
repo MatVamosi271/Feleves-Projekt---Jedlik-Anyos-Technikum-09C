@@ -35,11 +35,17 @@ p {
 table {
     border-collapse: collapse;
     text-align: center;
+    border: #12FF15 3px solid;
 }
 
 th, td {
     border:#12FF15 1px solid;
     padding: 8px;
+}
+
+th {
+    color: rgb(20, 26, 23);
+    background-color: #12FF15;
 }
 
 .floating-image {
@@ -49,4 +55,13 @@ th, td {
 
 .stopfloat {
     clear: both;
+}
+
+.kepkiemeles {
+    transition: box-shadow 0.3s ease, outline 0.3s ease;
+}
+
+.kepkiemeles:hover {
+    outline: 2px solid #12FF15;
+    box-shadow: 0 0 24px rgba(18, 255, 21, 0.5);
 }
