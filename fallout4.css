@@ -41,9 +41,11 @@ th, td {
     padding: 8px;
 }
 
-.floating-image {
+.float-right {
     float: right;
-    margin: 20px;
+    border: 1px solid #329BFF;
+    padding: 5px;
+    margin: 0 10px;
 }
 
 .stopfloat {

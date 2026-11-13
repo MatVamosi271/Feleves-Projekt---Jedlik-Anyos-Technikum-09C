@@ -51,15 +51,11 @@ p {
 
 .float-right {
     float: right;
-    margin: 20px;
+    border: 1px solid #ffb641;
+    padding: 5px;
+    margin: 0 10px;
 }
 
 .stopfloat {
     clear: both;
-}
-
-.border {
-    border: 1px solid #ffb641;
-    padding: 10px;
-    margin: 10px;
 }
